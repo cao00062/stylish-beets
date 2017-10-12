@@ -3,7 +3,7 @@ body {
     line-height: 1.5;
     color: #222; 
     font-family: PT Serif;
-    
+    font-weight: normal;
 }
 
 .info{
@@ -30,4 +30,12 @@ h2 {
 
 li {
     list-style-type:lower-greek;
+}
+
+.tag{
+    list-style: circle;
+}
+
+a:hover {
+    color: #8f2440;
 }
