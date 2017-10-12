@@ -5,3 +5,11 @@ body {
 .info{
     text-align: center;
 }
+
+a {
+    display: block;
+    font-size: 1.125em;
+    color: #8f2440;
+    line-height: 1.5em;
+    
+}
