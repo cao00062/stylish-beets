@@ -23,3 +23,7 @@ h1 {
     color:#3f1622;
     
 }
+
+li {
+    list-style-type:lower-greek;
+}
